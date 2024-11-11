@@ -1,0 +1,10 @@
+pandas
+psutil
+tabulate
+dill
+jsonpickle
+codecarbon==2.6
+pandas
+numpy
+scikit-learn
+matplotlib

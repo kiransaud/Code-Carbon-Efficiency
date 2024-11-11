@@ -1,0 +1,7 @@
+run_id,run_number,device_id,cpu_model,gpu_model,ram,os,sampling_level,log_level,tracking_mode,measurement_type,total_energy_consumption,execution_time,cpu_energy_estimation,gpu_energy_estimation,ram_energy_estimation
+run_1,1,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Ubuntu,5,info,machine,PM,0.007,122,,,
+run_2,2,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Windows 10 Pro,15,debug,process,PM,0.0095,118,,,
+run_3,3,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Ubuntu,30,error,machine,PM,0.008,133,,,
+run_1,1,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Ubuntu,5,info,machine,CC,0.006,120,0.004,0.0,0.002
+run_2,2,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Windows 10 Pro,15,debug,process,CC,0.009,115,0.006,0.0,0.003
+run_3,3,1,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,,8GB,Ubuntu,30,error,machine,CC,0.0075,130,0.005,0.0,0.0025
